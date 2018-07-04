@@ -6,6 +6,7 @@ Windows:
 git clone https://github.com/ecnordbund/setup myFolder
 cd myFolder
 clone.bat
+install.bat
 ```
 
 
@@ -16,4 +17,5 @@ Linux:
 git clone https://github.com/ecnordbund/setup myFolder
 cd myFolder
 sh ./clone.sh
+sh ./install.sh
 ```
