@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "ec-verwaltungs-app"
+		},
+		{
+			"path": "ec-api"
+		},
+		{
+			"path": "lazyFilter"
+		},
+		{
+			"path": "TN-Liste-Generator"
+		},
+		{
+			"path": "Personenvergleich"
+		},
+		{
+			"path": "serienBrief"
+		}
+	],
+	"settings": {}
+}
